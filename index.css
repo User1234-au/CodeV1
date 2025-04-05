@@ -1,0 +1,12 @@
+body{
+    background: yellowgreen;
+}
+.mabar{
+    display: flex;
+    justify-items: center;
+    background: rgb(217, 214, 214);
+}
+.lien a{
+    text-decoration: none;
+    color: rgb(5, 4, 4);
+}
